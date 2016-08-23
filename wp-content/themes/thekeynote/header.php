@@ -76,10 +76,7 @@
 		<?php } ?>
 		<!-- logo -->
 		<div class="gdlr-header-inner">
-		<div class="acceptto-logo">
-			<p>Powered by </p>
-			<a href="https://acceptto.com/"><img src="https://s3.postimg.io/ir61bzs0j/com_acceptto_mfa_150x150.png" id="acceptto-logo" style="width:100px"></a>
-		</div>
+		
 			<div class="gdlr-header-container container">
 			
 				<!-- logo -->

@@ -1582,3 +1582,7 @@ div#custom-sidebar { color: #000; font-size: 20px; float:left;}
 .acceptto-logo { display: flex; align-items: center; margin-top: -12px; margin-left: 8px;}
 .acceptto-logo p {padding-top: 20px; color: #000; font-size: 15px; }
 #footer .widget-area { width: 30%; }
+
+
+.dl-trigger { margin-top: -50x; margin-right: -140px; }
+.dl-active { margin-top: -50x; margin-right: -140px; }

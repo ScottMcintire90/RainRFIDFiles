@@ -699,7 +699,7 @@ div.gdlr-dropcap.gdlr-type-circle{ -moz-border-radius: 16px; -webkit-border-radi
 .gdlr-banner-description-item .nav-container{ overflow: hidden;  }
 .gdlr-banner-description-item .nav-container.style-1 .flex-direction-nav{ margin-left: 0px; }
 .gdlr-banner-description-item .nav-container.style-1 .flex-control-nav{ display: none;  }	
-.gdlr-banner-images ul.slides li img { width: auto; display: inline-block; }
+.gdlr-banner-images ul.slides li img { width: auto; display: inline-block; vertical-align:middle; }
 .gdlr-banner-images ul.slides li { text-align: center; }
 
 .gdlr-banner-item-wrapper .flex-direction-nav{ line-height: 1; }

@@ -392,7 +392,7 @@ input[type="submit"], input[type="button"]{ -webkit-appearance: none; }
 .gdlr-column-service-item .column-service-icon{ margin-right: 15px; font-size: 30px; line-height: 18px; }
 .gdlr-column-service-item .column-service-icon i{ margin: 0px; }
 .gdlr-column-service-item .column-service-title{ margin-bottom: 20px; font-size: 14px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; }
-.gdlr-column-service-item .column-service-learn-more{ font-style: italic; font-size: 14px; letter-spacing: 1px; }
+.gdlr-column-service-item .column-service-learn-more{ font-size: 14px; letter-spacing: 1px; }
 .gdlr-column-service-item.gdlr-type-1 .column-service-icon{ float: left; margin-right: 30px; margin-top: -5px; }
 .gdlr-column-service-item.gdlr-type-1 .column-service-icon.gdlr-skin-box{ background: transparent; }
 .gdlr-column-service-item.gdlr-type-1 .column-service-content-wrapper{ overflow: hidden; }
@@ -1586,3 +1586,4 @@ div#custom-sidebar { color: #000; font-size: 20px; float:left;}
 
 .dl-trigger { margin-top: -50x; margin-right: -140px; }
 .dl-active { margin-top: -50x; margin-right: -140px; }
+

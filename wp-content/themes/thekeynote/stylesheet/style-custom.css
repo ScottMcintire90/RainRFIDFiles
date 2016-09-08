@@ -1,8 +1,8 @@
 html.ltie9 body, body{ min-width: 1140px; } .container{ max-width: 1140px; } .gdlr-caption-wrapper .gdlr-caption-inner{ max-width: 1140px; }
 .body-wrapper.gdlr-boxed-style{ max-width: 1220px; overflow: hidden; } .body-wrapper.gdlr-boxed-style .gdlr-header-wrapper{ max-width: 1220px; margin: 0px auto; }
-.gdlr-logo{ max-width: 120px; }
-.gdlr-logo{ margin-top: 15px; }
-.gdlr-navigation-wrapper{ margin-top: 30px; }.gdlr-menu-search-button-sep, #gdlr-menu-search-button{ top: 30px; }
+.gdlr-logo{ max-width: 150px; }
+.gdlr-logo{ margin-bottom: 5px; }
+.gdlr-navigation-wrapper{ margin-top: 20px; }.gdlr-menu-search-button-sep, #gdlr-menu-search-button{ top: 20px; }
 h1, h2, h3, h4, h5, h6{ font-family: "Raleway"; }
 body, input, textarea, select{ font-family: "Montserrat"; }
 .gdlr-info-font, ul.gdlr-twitter-widget .gdlr-twitter-time, .gdlr-page-caption{ font-family: "Droid Serif"; }
